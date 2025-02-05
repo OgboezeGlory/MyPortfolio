@@ -1,0 +1,54 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: var(black);
+    colour: white;
+}
+
+.main-header {
+    background-color: green;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.navbar{
+    background-color: black;
+    padding: 10px 0;
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.navbar ul li {
+    margin: 0 15px;
+    
+    
+}
+
+.main-section {
+    background-color: antiquewhite;
+    padding: 15px;
+    margin: 10px auto;
+    max-width: 800px;
+    border-radius: 5px;
+    color: antiquewhite;
+    margin-top: 20px;
+
+}
+
+.section h2{
+    color: green;
+    margin-bottom: 10px;
+    
+}
+
+
